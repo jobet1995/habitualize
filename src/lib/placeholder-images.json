@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "onboarding-calendar",
+      "description": "An illustration of a person organizing a giant calendar.",
+      "imageUrl": "https://images.unsplash.com/photo-1657040298726-7189d3090d5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvcmdhbml6aW5nJTIwc2NoZWR1bGV8ZW58MHx8fHwxNzU5MjIwMTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "organizing schedule"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "A user avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkyMDk1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ]
+}
