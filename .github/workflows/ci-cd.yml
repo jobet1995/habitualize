@@ -7,7 +7,7 @@ on:
     branches: [master]
 
 env:
-  DOCKER_IMAGE: ${{ vars.DOCKERHUB_USERNAME}}/habitualize
+  DOCKER_IMAGE: ${{ vars.DOCKERHUB_USERNAME || 'jobet9530' }}/habitualize
   VERSION: ${{ github.sha }}
 
 defaults:
